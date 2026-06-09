@@ -18,7 +18,7 @@ The whole player is a single ~1100-line free-format COBOL program
 This project was inspired by **[Área de Transferência (ADT)](https://gigahertz.fm/podcasts/adt/)**,
 a Brazilian weekly technology podcast — *"um podcast semanal sobre tecnologia,
 feito por 4 podcasters que já respiram o assunto diariamente"* — hosted by
-Marcus Mendes, Guilherme Rambo, Gustavo Faria, and Bruno Casemiro, with new
+Marcus Mendes, Guilherme Rambo, Gustavo Faria, and Arthur Givigir, with new
 episodes every Friday covering Apple, AI, and the broader tech industry.
 
 The spark came from **episode 478, "Humano Cachorroide"**, in which Rambo
