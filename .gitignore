@@ -1,0 +1,9 @@
+# Compiled binary
+/podcast-player
+
+# Generated at runtime
+feed.rss
+chapters.json
+
+# Windows download metadata
+*:Zone.Identifier
