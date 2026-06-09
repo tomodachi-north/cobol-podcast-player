@@ -22,9 +22,9 @@ Marcus Mendes, Guilherme Rambo, Gustavo Faria, and Arthur Givigir, with new
 episodes every Friday covering Apple, AI, and the broader tech industry.
 
 The spark came from **episode 478, "Humano Cachorroide"**, in which Rambo
-jokingly asked whether any listener was tuning into the show using COBOL. That
+asked whether any listener was tuning into the show using COBOL. That
 offhand question was too good to leave unanswered — so this player exists to make
-the joke real: listen to ADT (and any other podcast) straight from a COBOL
+the ask real: listen to ADT (and any other podcast) straight from a COBOL
 terminal program. It ships pre-configured with the ADT feed as its default show.
 
 ---
